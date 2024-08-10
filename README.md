@@ -5,7 +5,6 @@ This is the official repository for my Software Development Engineer in Test (SD
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** [Vercel](https://vercel.com/)
 - **Deployment:** [Vercel](https://vercel.com/)
 
 ## 🚀 Live Demo
